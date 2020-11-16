@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct TileKitVectorFile: TileKitTile {
+struct TileKitVectorTile: TileKitTile {
     let zoom: Int
     let column: Int
     let row: Int
